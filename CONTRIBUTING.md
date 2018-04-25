@@ -13,7 +13,7 @@ Bedankt dat je tijd wil nemen om een bijdrage te leveren! :+1:
 
 Heb je een korte vraag dan is die altijd welkom op de [#acpaas-ui slack groep](https://dgpls.slack.com/messages/C4M60PQJF).
 
-Heb je een complexe vraag over de smart widgets in het algemeen, [maak dan een github issue](https://github.com/digipolisantwerp/smart-widgets/issues) bovenaan deze pagina.
+Heb je een complexe vraag over de smart widgets in het algemeen, [maak dan een github issue](https://github.com/digipolisantwerp/smart-widgets/issues/new) bovenaan deze pagina.
 
 Wil je een suggestie doen voor een nieuwe smart widget, maak dan eveneens een github issue bovenaan.
 
@@ -25,7 +25,7 @@ Wens je correcties aan deze contributiegids, maak dan een issue of stuur een pul
 
 Wil je functionaliteit toevoegen aan een bestaande Smart Widget, of gewoon een bug fixen erin, ga dan naar de contributiegids in het project van die Smart Widget, en volg de instructies daar.
 
-Indien je een nieuwe front-end of back-end wil toevoegen aan een widget, volg dan de instructies hieronder voor het [maken van nieuwe widgets](#een-nieuwe-smart-widget-maken).
+Indien je een nieuwe front-end of back-end technologie wil toevoegen aan een widget, volg dan de instructies hieronder voor het [maken van nieuwe widgets](#een-nieuwe-smart-widget-maken).
 
 Volg in elk geval de onderstaande [richtlijnen](#richtlijnen).
 
@@ -69,7 +69,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 2. Overname door Digipolis
 
-    Je vraagt aan Digipolis voor een review van de Smart Widget ter voorbereiding van de overname. Dit kan je doen door een issue te boeken op dit project.
+    Je vraagt aan Digipolis voor een review van de Smart Widget ter voorbereiding van de overname. Dit kan je doen door een [issue te boeken op dit project](https://github.com/digipolisantwerp/smart-widgets/issues/new?template=handoff-request).
 
     Als aan de onderstaande richtlijnen is voldaan krijg je een goedkeuring voor overdracht. Je doet een transfer van de github repo naar de *digipolisantwerp* github organisatie.
 
@@ -154,7 +154,7 @@ Om een widget op te nemen in de overzichtslijst voldoet die aan een minimale set
 
 De *preview* status is wat we minimaal verwachten van een widget ontwikkeld in het kader van een Digipolis project.
 
-Voor de *preview* status komen er extra vereisten bij:
+Voor de *preview* status komt bovenop bovenstaande *community* vereisten ook nog dit:
 
 - Architectuur volgens de [SA2020](https://docs.google.com/presentation/d/1F5xLAm7IqepLyBJMswdLXtkD-Epa_xL-iUJfu-k-Kdc/edit?usp=drive_web&ouid=110795847601970524262) richtlijn
 - Maakt technologiekeuzes uit de [DAAS](https://goo.gl/HNm92Q) standaard
