@@ -1,4 +1,4 @@
-# ACPaaS.UI Smart Widgets
+# ACPaaS UI Smart Widgets
 
 ## Welkom
 
@@ -36,11 +36,11 @@ Een Smart Widget gebruik je door volgende zaken te doen:
 
 1. Includeer en configureer de back-end
 
-In je BFF code ga je de back-end package voor de Smart Widget includeren en de instructies uit de README ervan volgen om een werkende BFF te maken die gebruikt kan worden door de Smart Widget front-end.
+    In je BFF code ga je de back-end package voor de Smart Widget includeren en de instructies uit de README ervan volgen om een werkende BFF te maken die gebruikt kan worden door de Smart Widget front-end.
 
 2. Includeer en configureer de front-end
 
-In je applicatie front-end code ga je de front-end package voor de Smart Widget includeren en ook hier weer de instructies uit de README ervan volgen om die te verbinden met de BFF en gepast te configureren voor je noden.
+    In je applicatie front-end code ga je de front-end package voor de Smart Widget includeren en ook hier weer de instructies uit de README ervan volgen om die te verbinden met de BFF en gepast te configureren voor je noden.
 
 Kijk bij de lijst van widgets hieronder welke packages ter beschikking zijn voor elke widget.
 
