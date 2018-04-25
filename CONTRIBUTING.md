@@ -63,7 +63,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
     > **NPM packages**
     >
-    > Publicatie van een NPM package doe je op de officiële npmjs repository (onder een eigen scope) of indien je de nodige permissies hebt kan je dit ook doen op de Digipolis Nexus package repository (onder scope @acpaas-ui-widgets). Kijk naar de voorbeeldpackages voor hoe dit laatste werkt. 
+    > Publicatie van een NPM package doe je op de officiële npmjs repository (onder een eigen scope) of indien je de nodige permissies hebt kan je dit ook doen op de Digipolis Nexus package repository (onder scope @acpaas-ui-widgets). Kijk naar de voorbeeldpackages voor hoe dit laatste werkt.
     >
     > Er is een migratie onderweg van alle ACPaaS UI en Smart Widget npm packages naar de npmjs repository zodat Nexus niet meer nodig zal zijn.
 
@@ -85,7 +85,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 ## Richtlijnen
 
-### Algemeen
+### Algemene richtlijnen
 
 - Je volgt de vereisten uit de [technische specificaties van het ACPaaS platform](https://acpaas-portal.antwerpen.be/nl/docs/techspecs).
 - Alle widgets horen visueel te passen in de [merkarchitectuur](https://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/digitale-componenten/technische-informatie) van de stad Antwerpen.
@@ -96,7 +96,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 - Voor de UI packages volg je de [ACPaaS UI richtlijnen](https://acpaas-ui.digipolis.be/docs/guidelines) en maak je maximaal hergebruik van [ACPaaS UI componenten](https://acpaas-ui.digipolis.be/ui-components).
 
-### Code Repository
+### Code repository
 
 In elke repo verwachten we volgende structuur:
 
@@ -140,6 +140,8 @@ In elke repo verwachten we volgende structuur:
 
 #### Community
 
+![Community](images/status-community.svg)
+
 Om een widget op te nemen in de overzichtslijst voldoet die aan een minimale set vereisten:
 
 - Een README.md bestand met omschrijving, screenshot en instructies voor gebruik, in Nederlands of Engels.
@@ -147,6 +149,8 @@ Om een widget op te nemen in de overzichtslijst voldoet die aan een minimale set
 - Een publiek toegankelijke git(hub) repo.
 
 #### Preview
+
+![Preview](images/status-preview.svg)
 
 De *preview* status is wat we minimaal verwachten van een widget ontwikkeld in het kader van een Digipolis project.
 
@@ -176,6 +180,8 @@ Voor de *preview* status komen er extra vereisten bij:
 - De README.md en CONTRIBUTING.md bestanden bevatten de [bovenvermelde inhoud](#code-repository).
 
 #### Standaard
+
+![Standaard](images/status-standaard.svg)
 
 Bovenop de vereisten voor *preview* komt nog dit:
 
