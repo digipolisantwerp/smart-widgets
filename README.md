@@ -44,6 +44,8 @@ Een Smart Widget gebruik je door volgende zaken te doen:
 
 Kijk bij de lijst van widgets hieronder welke packages ter beschikking zijn voor elke widget.
 
+### Afwerkingsniveaus
+
 Een Smart Widget kent verschillende stadia van afwerking, en in functie daarvan kan je de keuze maken of de widget de juiste is voor jouw applicatie:
 
 - ![In ontwikkeling](images/status-in-ontwikkeling.svg)
