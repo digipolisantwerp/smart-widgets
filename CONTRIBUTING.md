@@ -69,7 +69,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 2. Overname door Digipolis
 
-    Je vraagt aan Digipolis voor een review van de Smart Widget ter voorbereiding van de overname. Dit kan je doen door een [issue te boeken op dit project](https://github.com/digipolisantwerp/smart-widgets/issues/new?template=handoff-request).
+    Je vraagt aan Digipolis voor een review van de Smart Widget ter voorbereiding van de overname. Dit kan je doen door een [issue te boeken op dit project](https://github.com/digipolisantwerp/smart-widgets/issues/new?template=handoff-request.md).
 
     Als aan de onderstaande richtlijnen is voldaan krijg je een goedkeuring voor overdracht. Je doet een transfer van de github repo naar de *digipolisantwerp* github organisatie.
 
