@@ -1,5 +1,7 @@
 # ACPaaS UI Smart Widgets
 
+> DRAFT: deze documentatie is in opbouw, geef je feedback erover aan [joeri.sebrechts@digipolis.be](mailto:joeri.sebrechts@digipolis.be)
+
 ## Welkom
 
 Smart Widgets maken deel uit van het Digipolis DXP, of Digital eXperience Platform, en bouwen voort bovenop de [ACPaaS UI](https://acpaas-ui.digipolis.be) componenten.
