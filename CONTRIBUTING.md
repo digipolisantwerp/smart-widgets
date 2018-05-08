@@ -37,7 +37,9 @@ Een Smart Widget bestaat uit verschillende delen:
 
 - 1 of meer UI packages waarin de front-end component zit voor de verschillende frameworks
 
-    Je kan je baseren op de code van de [contact picker angular UI package](https://github.com/digipolisantwerp/contact-picker_widget_angular).
+    Je kan gebruik maken van de [Angular UI Starter Kit](https://github.com/digipolisantwerp/starter-kit_widget_angular).
+
+    Je kan je ook baseren op de code van de [contact picker angular UI package](https://github.com/digipolisantwerp/contact-picker_widget_angular).
 
     Een voorbeeldpackage voor React is gepland.
 
