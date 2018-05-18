@@ -89,13 +89,18 @@ Packages:
 - [Angular 5+ UI](https://github.com/digipolisantwerp/contact-picker_widget_angular)
 - [Node.JS BFF](https://github.com/digipolisantwerp/contact-picker_service_nodejs)
 
-### Address Picker
+### Location Picker
 
-![Status: In ontwikkeling](images/status-in-ontwikkeling.svg)
+![Status: Preview](images/status-preview.svg)
 
-Een selectieveld om een adres uit te kiezen, gekoppeld op de GIS databron van straten en adressen.
+Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de GIS databron van straten en adressen in Antwerpen.
 
-![Address Picker](images/address-picker.png)
+![Location Picker](images/location-picker.png)
+
+Packages:
+
+- [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
+- [Node.JS BFF](https://github.com/digipolisantwerp/location-picker_service_nodejs)
 
 ### Dossier Viewer
 
