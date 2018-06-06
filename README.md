@@ -50,21 +50,21 @@ Kijk bij de lijst van widgets hieronder welke packages ter beschikking zijn voor
 
 Een Smart Widget kent verschillende stadia van afwerking, en in functie daarvan kan je de keuze maken of de widget de juiste is voor jouw applicatie:
 
-- ![In ontwikkeling](images/status-in-ontwikkeling.svg)
+- ![Doing](images/status-doing.svg)
 
   De widget is in actieve ontwikkeling maar nog niet klaar voor gebruik. Hou deze pagina in de gaten!
 
 - ![Community](images/status-community.svg)
 
-  Een eerste versie van de widget is klaar, maar is nog niet in beheer genomen door Digipolis. De ontwikkelaar levert zelf de ondersteuning op een as-is basis.
+  De widget is klaar, maar is nog niet opgenomen in de Digipolis organisatie op github en voldoet mogelijk nog niet aan de basisvereisten rond kwaliteit.
 
-- ![Preview](images/status-preview.svg)
+- ![Live](images/status-live.svg)
 
-  De widget is klaar voor gebruik en Digipolis verzekert de ondersteuning ervan. De widget heeft zichzelf echter nog niet breed bewezen en bijgevolg zijn mogelijk nog niet alle noden afgedekt of zijn er nog belangrijke aanpassingen nodig. In deze fase kan je als ontwikkelaar nog volop je stempel drukken op het gedrag van de widget.
+  De widget is klaar voor gebruik.
 
-- ![Standaard](images/status-standaard.svg)
+- ![Archive](images/status-archive.svg)
 
-  De widget is in gebruik door meerdere partijen en heeft zijn kwaliteit bewezen. Digipolis levert de ondersteuning.
+  De widget is niet langer ondersteund.
 
 De widgets zijn ontworpen om gecombineerd te worden met de [merkarchitectuur](https://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/digitale-componenten/technische-informatie) van de stad Antwerpen.
 
@@ -78,7 +78,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 
 ### Contact Picker
 
-![Status: Preview](images/status-preview.svg)
+![Status: Live](images/status-live.svg)
 
 Een selectieveld om een persoon uit te kiezen, met standaardkoppeling op het M-profiel en mogelijkheid om extra databronnen aan te koppelen.
 
@@ -91,7 +91,7 @@ Packages:
 
 ### Location Picker
 
-![Status: Preview](images/status-preview.svg)
+![Status: Live](images/status-live.svg)
 
 Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de GIS databron van straten en adressen in Antwerpen.
 
@@ -104,8 +104,8 @@ Packages:
 
 ### Dossier Viewer
 
-![Status: In ontwikkeling](images/status-in-ontwikkeling.svg)
+![Status: Doing](images/status-doing.svg)
 
 ### Chatbot
 
-![Status: In ontwikkeling](images/status-in-ontwikkeling.svg)
+![Status: Doing](images/status-doing.svg)

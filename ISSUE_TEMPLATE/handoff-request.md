@@ -2,11 +2,13 @@
 
 ### Smart Widget repositories
 
-https://github.com/...
+UI: https://github.com/...
+
+BFF: https://github.com/...
 
 ### Checklist
 
-- [ ] De [richtlijnen voor status *preview*](../CONTRIBUTING.md#Preview) zijn gevolgd
+- [ ] De [richtlijnen voor contributie](../CONTRIBUTING.md#Live) zijn gevolgd
 - [ ] Ik ben owner van bovenstaande repo's en klaar om deze over te dragen aan Digipolis
 
 ### Opmerkingen

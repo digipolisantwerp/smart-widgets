@@ -57,7 +57,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 1. Publicatie op github onder eigen naam
 
-    Je publiceert repo's op github onder je eigen naam of organisatie. Je laat weten aan Digipolis waar de widget staat via slack, mail of github issues.
+    Je publiceert repo's op github onder je eigen naam of organisatie. Je laat weten aan het ACPaaS UI team waar de widget staat via slack, mail of github issues.
 
     We nemen jouw widget op in de overzichtslijst met status *Community*. Je staat zelf in voor eventuele ondersteuning (verwerken van pull requests, beantwoorden vragen, ...)
 
@@ -75,15 +75,9 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
     Als aan de onderstaande richtlijnen is voldaan krijg je een goedkeuring voor overdracht. Je doet een transfer van de github repo naar de *digipolisantwerp* github organisatie.
 
-    Eens overgedragen neemt Digipolis de ondersteuning over. De widget gaat over in status *Preview*. Bijkomende contributies doe je via pull requests. Digipolis zorgt ervoor dat een npm package gepubliceerd wordt op de juiste plek indien nodig.
+    In het kader van de overdracht spreken we af in welke mate je betrokken zal zijn bij het verdere onderhoud en de ondersteuning van afnemers. Bijkomende contributies doe je via pull requests of merge requests. Het ACPaaS UI team zorgt ervoor dat een npm package gepubliceerd wordt op de juiste plek indien nodig.
 
-    ![Preview](images/status-preview.svg)
-
-3. Transitie naar Standaard
-
-    Eens aan alle nodige voorwaarden voldaan is (zie onder) gaat je widget over naar status Standaard. Buiten de status blijft alles hetzelfde als in status *Preview*.
-
-    ![Standaard](images/status-standaard.svg)
+    ![Live](images/status-live.svg)
 
 ## Richtlijnen
 
@@ -150,13 +144,13 @@ Om een widget op te nemen in de overzichtslijst voldoet die aan een minimale set
 - Een LICENSE file met de MIT license.
 - Een publiek toegankelijke git(hub) repo.
 
-#### Preview
+#### Live
 
-![Preview](images/status-preview.svg)
+![Live](images/status-live.svg)
 
-De *preview* status is wat we minimaal verwachten van een widget ontwikkeld in het kader van een Digipolis project.
+De *live* status is wat we minimaal verwachten van een widget ontwikkeld in het kader van een Digipolis project.
 
-Voor de *preview* status komt bovenop bovenstaande *community* vereisten ook nog dit:
+Voor de *live* status komt bovenop bovenstaande *community* vereisten ook nog dit:
 
 - Architectuur volgens de [SA2020](https://docs.google.com/presentation/d/1F5xLAm7IqepLyBJMswdLXtkD-Epa_xL-iUJfu-k-Kdc/edit?usp=drive_web&ouid=110795847601970524262) richtlijn
 - Maakt technologiekeuzes uit de [DAAS](https://goo.gl/HNm92Q) standaard
@@ -177,23 +171,21 @@ Voor de *preview* status komt bovenop bovenstaande *community* vereisten ook nog
 
 - De belangrijkste elementen van de [ACPaaS UI coding guidelines](https://acpaas-ui.digipolis.be/docs/guidelines) zijn gevolgd.
 
-- Een unit test framework is geintegreerd, maar de dekking moet nog niet volledig zijn.
-
 - De README.md en CONTRIBUTING.md bestanden bevatten de [bovenvermelde inhoud](#code-repository).
 
-#### Standaard
+#### Aangeraden
 
-![Standaard](images/status-standaard.svg)
-
-Bovenop de vereisten voor *preview* komt nog dit:
-
-- Er zijn minstens 2 applicaties waar de widget in gebruik is.
+Bovenop bovenstaande vereisten raden we ook nog volgende aan:
 
 - Alle [richtlijnen](#richtlijnen) zijn gevolgd.
 
 - [Semver](http://semver.org/) regels worden toegepast.
 
-- 80% unit test coverage op de widget code (niet op de examples)
+- Er is een unit test framework geintegreerd.
+
+- Er is 80% unit test coverage op de widget code (niet op de examples).
+
+- Er is een voorbeeldapplicatie geintegreerd in de `example/` map.
 
 - README.md
 
