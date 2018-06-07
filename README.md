@@ -76,6 +76,13 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 
 ## Huidige widgets
 
+| Widget | Status |
+|--------|--------|
+| [Contact Picker](#contact-picker) | ![Status: Live](images/status-live.svg) |
+| [Location Picker](#location-picker) | ![Status: Live](images/status-live.svg) |
+| [Dossier Viewer](#dossier-viewer) | ![Status: Doing](images/status-doing.svg) |
+| [Chatbot](#chatbot) | ![Status: Doing](images/status-doing.svg) |
+
 ### Contact Picker
 
 ![Status: Live](images/status-live.svg)
