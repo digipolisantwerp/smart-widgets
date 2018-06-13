@@ -78,8 +78,8 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 |--------|--------|
 | [Contact Picker](#contact-picker) | ![Status: Live](images/status-live.svg) |
 | [Location Picker](#location-picker) | ![Status: Live](images/status-live.svg) |
+| [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
 | [Dossier Viewer](#dossier-viewer) | ![Status: Doing](images/status-doing.svg) |
-| [Chatbot](#chatbot) | ![Status: Doing](images/status-doing.svg) |
 
 ### Contact Picker
 
@@ -107,10 +107,17 @@ Packages:
 - [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
 - [Node.JS BFF](https://github.com/digipolisantwerp/location-picker_service_nodejs)
 
-### Dossier Viewer
-
-![Status: Doing](images/status-doing.svg)
-
 ### Chatbot
+
+![Status: Live](images/status-live.svg)
+
+Een chat UI die verbonden is met een chatbot in de chatbot engine.
+
+![Chatbot](images/chatbot.png)
+
+- [Angular 5+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
+- [Node.JS BFF](https://github.com/digipolisantwerp/chatbot_service_nodejs)
+
+### Dossier Viewer
 
 ![Status: Doing](images/status-doing.svg)
