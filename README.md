@@ -78,6 +78,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 |--------|--------|
 | [Contact Picker](#contact-picker) | ![Status: Live](images/status-live.svg) |
 | [Location Picker](#location-picker) | ![Status: Live](images/status-live.svg) |
+| [Location Picker met Map](#location-picker-met-leaflet-map) | ![Status: Live](images/status-live.svg) |
 | [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
 | [Dossier Viewer](#dossier-viewer) | ![Status: Doing](images/status-doing.svg) |
 
@@ -107,6 +108,19 @@ Packages:
 - [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
 - [Node.JS BFF](https://github.com/digipolisantwerp/location-picker_service_nodejs)
 
+### Location Picker met Leaflet Map
+
+![Status: Live](images/status-live.svg)
+
+Een uitbreiding van de location picker die ook een kaart toont, en toelaat om locaties te selecteren via de kaart.
+
+![Location Picker met Leaflet Map](images/location-picker-leaflet.png)
+
+Packages:
+
+- [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker-leaflet_widget_angular)
+- [Node.JS BFF](https://github.com/digipolisantwerp/location-picker_service_nodejs)
+
 ### Chatbot
 
 ![Status: Live](images/status-live.svg)
@@ -116,6 +130,7 @@ Een chat UI die verbonden is met een chatbot in de chatbot engine.
 ![Chatbot](images/chatbot.png)
 
 - [Angular 5+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
+- [AngularJS 1.2 UI](https://github.com/digipolisantwerp/chatbot_widget_ng1)
 - [Node.JS BFF](https://github.com/digipolisantwerp/chatbot_service_nodejs)
 
 ### Dossier Viewer
