@@ -88,7 +88,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 
 Een selectieveld om een persoon uit te kiezen, met standaardkoppeling op het M-profiel en mogelijkheid om extra databronnen aan te koppelen.
 
-![Contact Picker](images/contact-picker.png)
+<img src="images/contact-picker.png" alt="Contact Picker" width="356" style="max-width:356px;width:100%">
 
 Packages:
 
@@ -101,7 +101,7 @@ Packages:
 
 Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de GIS databron van straten en adressen in Antwerpen.
 
-![Location Picker](images/location-picker.png)
+<img src="images/location-picker.png" alt="Location Picker" width="477" style="max-width:477px;width:100%">
 
 Packages:
 
@@ -114,7 +114,7 @@ Packages:
 
 Een uitbreiding van de location picker die ook een kaart toont, en toelaat om locaties te selecteren via de kaart.
 
-![Location Picker met Leaflet Map](images/location-picker-leaflet.png)
+<img src="images/location-picker-leaflet.png" alt="Location Picker met Leaflet Map" width="500" style="max-width:500px;width:100%">
 
 Packages:
 
@@ -127,7 +127,8 @@ Packages:
 
 Een chat UI die verbonden is met een chatbot in de chatbot engine.
 
-![Chatbot](images/chatbot.png)
+<img src="images/chatbot.png" alt="Chatbot screenshot" width="410" style="max-width:410px;width:100%">
+
 
 - [Angular 5+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
 - [AngularJS 1.2 UI](https://github.com/digipolisantwerp/chatbot_widget_ng1)
