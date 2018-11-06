@@ -11,7 +11,7 @@ Bedankt dat je tijd wil nemen om een bijdrage te leveren! :+1:
 
 ## Ik heb een vraag
 
-Heb je een korte vraag over het gebruik van een widget dan is die altijd welkom op de [#acpaas-ui slack groep](https://dgpls.slack.com/messages/C4M60PQJF). Heb je vragen over het (ver)bouwen van widgets dan is die welkom op de [#acpaas-ui-dev slack groep](https://dgpls.slack.com/messages/C4S2D7KTK).
+Heb je een korte vraag over het gebruik van een widget dan is die altijd welkom op de [#acpaas-ui slack groep](https://digantcafe.slack.com/messages/CDDLYJU65). Heb je vragen over het (ver)bouwen van widgets dan is die welkom op de [#acpaas-ui-ngx slack groep](https://digantcafe.slack.com/messages/CDF95H5B7). Ben je nog geen lid van DigAnt Café Slack dan kan je [hier lid worden](https://digantcafe-slack.digipolis.be/).
 
 Heb je een complexe vraag over de smart widgets in het algemeen, [maak dan een github issue](https://github.com/digipolisantwerp/smart-widgets/issues/new) bovenaan deze pagina.
 
