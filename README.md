@@ -107,6 +107,7 @@ Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de G
 Packages:
 
 - [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
+- [AngularJS 1.2 UI](https://github.com/digipolisantwerp/location-picker_widget_ng1)
 - [Node.JS BFF](https://github.com/digipolisantwerp/location-picker_service_nodejs)
 
 ### Location Picker met Leaflet Map
