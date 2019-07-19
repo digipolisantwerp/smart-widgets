@@ -81,7 +81,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 | [Location Picker met Map](#location-picker-met-leaflet-map) | ![Status: Live](images/status-live.svg) |
 | [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
 | [Search](#search) | ![Status: Live](images/status-live.svg) |
-| [Dossier Viewer](#dossier-viewer) | ![Status: Doing](images/status-doing.svg) |
+| [Smart Table / Dossier Viewer](#smart-table) | ![Status: Live](images/status-live.svg) |
 
 ### Contact Picker
 
@@ -147,6 +147,12 @@ Een generiek zoekveld met suggesties.
 - [Angular 5+ UI](https://github.com/digipolisantwerp/search_widget_angular)
 
 
-### Dossier Viewer
+### Smart Table / Dossier Viewer
 
-![Status: Doing](images/status-doing.svg)
+![Status: Live](images/status-live.svg)
+
+Een generieke front-end voor het tonen van filterbare, sorteerbare, paginerende lijsten van dingen. De front-end is zelfconfigurerend via data aangeleverd door de backend.
+
+<img src="images/smart-table.png" alt="Smart Table screenshot" width="543" style="max-width:543px;width:100%">
+
+- [Angular 6+ UI](https://github.com/digipolisantwerp/smart-table_widget_angular)
