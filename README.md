@@ -78,7 +78,6 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 |--------|--------|
 | [Contact Picker](#contact-picker) | ![Status: Live](images/status-live.svg) |
 | [Location Picker](#location-picker) | ![Status: Live](images/status-live.svg) |
-| [Location Picker met Map](#location-picker-met-leaflet-map) | ![Status: Live](images/status-live.svg) |
 | [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
 | [Search](#search) | ![Status: Live](images/status-live.svg) |
 | [Dossier Viewer](#dossier-viewer) | ![Status: Doing](images/status-doing.svg) |
@@ -100,27 +99,13 @@ Packages:
 
 ![Status: Live](images/status-live.svg)
 
-Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de GIS databron van straten en adressen in Antwerpen.
+Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de GIS databron van straten en adressen in Antwerpen. Kan getoond worden met en zonder kaart en heeft uitgebreide mogelijkheden tot customisatie.
 
 <img src="images/location-picker.png" alt="Location Picker" width="477" style="max-width:477px;width:100%">
 
 Packages:
 
 - [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
-- [Node.JS BFF](https://github.com/digipolisantwerp/location-picker_service_nodejs)
-
-### Location Picker met Leaflet Map
-
-![Status: Live](images/status-live.svg)
-
-Een uitbreiding van de location picker die ook een kaart toont, en toelaat om locaties te selecteren via de kaart.
-
-<img src="images/location-picker-leaflet.png" alt="Location Picker met Leaflet Map" width="500" style="max-width:500px;width:100%">
-
-Packages:
-
-- [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker-leaflet_widget_angular)
-- [Node.JS BFF](https://github.com/digipolisantwerp/location-picker_service_nodejs)
 
 ### Chatbot
 
