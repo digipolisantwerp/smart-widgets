@@ -12,6 +12,7 @@ Op deze plek vind je alles terug over het gebruiken en maken van Smart Widgets.
 - [Een widget gebruiken](#een-widget-gebruiken)
 - [Een widget (ver)bouwen](#een-widget-verbouwen)
 - [Huidige widgets](#huidige-widgets)
+- [Embeddable Widgets](#embeddable-widgets)
 
 ## Wat is een Smart Widget?
 
@@ -130,7 +131,6 @@ Een generiek zoekveld met suggesties.
 
 - [Angular 5+ UI](https://github.com/digipolisantwerp/search_widget_angular)
 
-
 ### Smart Table / Dossier Viewer
 
 ![Status: Live](images/status-live.svg)
@@ -140,3 +140,10 @@ Een generieke front-end voor het tonen van filterbare, sorteerbare, paginerende 
 <img src="images/smart-table.png" alt="Smart Table screenshot" width="543" style="max-width:543px;width:100%">
 
 - [Angular 6+ UI](https://github.com/digipolisantwerp/smart-table_widget_angular)
+
+## Embeddable Widgets
+
+Smart Widgets dien je te integreren in je frontend codebase, wat maakt dat ze beschikbaar moeten zijn voor hetzelfde frontend framework als waarin je werkt. Voor gevallen waar dit niet kan hebben we ook embeddable widgets. Dit is een manier om via iframes stukken functionaliteit toe te voegen aan een applicatie, zelfs als die geschreven is in een andere frontend-technologie en wordt die gehost door een andere applicatie.
+
+- [Embeddable widgets library](https://github.com/digipolisantwerp/embeddable-widgets_module_js)
+- [Standaardwidgets in de widgets app](https://widgets.antwerpen.be/)
