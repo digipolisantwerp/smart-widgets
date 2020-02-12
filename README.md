@@ -80,7 +80,6 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 | [Contact Picker](#contact-picker) | ![Status: Live](images/status-live.svg) |
 | [Location Picker](#location-picker) | ![Status: Live](images/status-live.svg) |
 | [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
-| [Search](#search) | ![Status: Live](images/status-live.svg) |
 | [Smart Table / Dossier Viewer](#smart-table) | ![Status: Live](images/status-live.svg) |
 
 ### Contact Picker
@@ -120,16 +119,6 @@ Een chat UI die verbonden is met een chatbot in de chatbot engine.
 - [Angular 5+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
 - [AngularJS 1.2 UI](https://github.com/digipolisantwerp/chatbot_widget_ng1)
 - [Node.JS BFF](https://github.com/digipolisantwerp/chatbot_service_nodejs)
-
-### Search
-
-![Status: Live](images/status-live.svg)
-
-Een generiek zoekveld met suggesties.
-
-<img src="images/search.png" alt="Search widget screenshot">
-
-- [Angular 5+ UI](https://github.com/digipolisantwerp/search_widget_angular)
 
 ### Smart Table / Dossier Viewer
 
