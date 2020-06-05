@@ -81,6 +81,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 | [Location Picker](#location-picker) | ![Status: Live](images/status-live.svg) |
 | [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
 | [Smart Table / Dossier Viewer](#smart-table) | ![Status: Live](images/status-live.svg) |
+| [Notification](#notification) | ![Status: Live](images/status-live.svg) |
 
 ### Contact Picker
 
@@ -129,6 +130,17 @@ Een generieke front-end voor het tonen van filterbare, sorteerbare, paginerende 
 <img src="images/smart-table.png" alt="Smart Table screenshot" width="543" style="max-width:543px;width:100%">
 
 - [Angular 6+ UI](https://github.com/digipolisantwerp/smart-table_widget_angular)
+
+## Notification
+
+![Status: Live](images/status-live.svg)
+
+Een notification dropdown om in-app notifications uit de notification engine te tonen.
+
+<img src="images/notification.png" alt="Notification screenshot" width="551" style="max-width:551px;width:100%">
+
+- [Angular 7+ UI](https://github.com/digipolisantwerp/notification_widget_angular)
+- [Node.JS BFF](https://github.com/digipolisantwerp/notification_service_nodejs)
 
 ## Embeddable Widgets
 
