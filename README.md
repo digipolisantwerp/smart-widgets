@@ -82,6 +82,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 | [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
 | [Smart Table / Dossier Viewer](#smart-table) | ![Status: Live](images/status-live.svg) |
 | [Notification](#notification) | ![Status: Live](images/status-live.svg) |
+| [Location Viewer](#location-viewer) | ![Status: Live](images/status-live.svg) |
 
 ### Contact Picker
 
@@ -89,7 +90,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 
 Een selectieveld om een persoon uit te kiezen, met standaardkoppeling op het M-profiel en mogelijkheid om extra databronnen aan te koppelen.
 
-<img src="images/contact-picker.png" alt="Contact Picker" width="356" style="max-width:356px;width:100%">
+<img src="images/contact-picker.png" alt="Voorbeeld van de Contact Picker widget." width="356" style="max-width:356px;width:100%">
 
 Packages:
 
@@ -102,11 +103,11 @@ Packages:
 
 Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de GIS databron van straten en adressen in Antwerpen. Kan getoond worden met en zonder kaart en heeft uitgebreide mogelijkheden tot customisatie.
 
-<img src="images/location-picker.png" alt="Location Picker" width="477" style="max-width:477px;width:100%">
+<img src="images/location-picker.png" alt="Voorbeeld van de Location Picker widget." width="1151" style="max-width:1151px;width:100%">
 
 Packages:
 
-- [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
+- [Angular 8+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
 
 ### Chatbot
 
@@ -114,10 +115,10 @@ Packages:
 
 Een chat UI die verbonden is met een chatbot in de chatbot engine.
 
-<img src="images/chatbot.png" alt="Chatbot screenshot" width="410" style="max-width:410px;width:100%">
+<img src="images/chatbot.png" alt="Voorbeeld van de Chatbot widget." width="410" style="max-width:410px;width:100%">
 
 
-- [Angular 5+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
+- [Angular 6+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
 - [AngularJS 1.2 UI](https://github.com/digipolisantwerp/chatbot_widget_ng1)
 - [Node.JS BFF](https://github.com/digipolisantwerp/chatbot_service_nodejs)
 
@@ -127,20 +128,32 @@ Een chat UI die verbonden is met een chatbot in de chatbot engine.
 
 Een generieke front-end voor het tonen van filterbare, sorteerbare, paginerende lijsten van dingen. De front-end is zelfconfigurerend via data aangeleverd door de backend.
 
-<img src="images/smart-table.png" alt="Smart Table screenshot" width="543" style="max-width:543px;width:100%">
+<img src="images/smart-table.png" alt="Voorbeeld van de Smart Table widget." width="543" style="max-width:543px;width:100%">
 
-- [Angular 6+ UI](https://github.com/digipolisantwerp/smart-table_widget_angular)
+- [Angular 7+ UI](https://github.com/digipolisantwerp/smart-table_widget_angular)
 
-## Notification
+### Notification
 
 ![Status: Live](images/status-live.svg)
 
 Een notification dropdown om in-app notifications uit de notification engine te tonen.
 
-<img src="images/notification.png" alt="Notification screenshot" width="551" style="max-width:551px;width:100%">
+<img src="images/notification.png" alt="Voorbeeld van de Notification widget." width="492" style="max-width:492px;width:100%">
 
 - [Angular 7+ UI](https://github.com/digipolisantwerp/notification_widget_angular)
 - [Node.JS BFF](https://github.com/digipolisantwerp/notification_service_nodejs)
+
+### Location Viewer
+
+![Status: Live](images/status-live.svg)
+
+Een gemakkelijke manier om locaties of adressen te tonen binnen Antwerpen.
+
+<img src="images/location-viewer.png" alt="Voorbeeld van de Location Viewer widget." width="1152" style="max-width:1152px;width:100%">
+
+Packages:
+
+- [Angular 7+ UI](https://github.com/digipolisantwerp/location-viewer_widget_angular)
 
 ## Embeddable Widgets
 
