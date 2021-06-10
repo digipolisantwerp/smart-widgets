@@ -67,7 +67,6 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
     >
     > Publicatie van een NPM package doe je op de officiële npmjs repository (onder een eigen scope) of indien je de nodige permissies hebt kan je dit ook doen op de Digipolis Nexus package repository (onder scope @acpaas-ui-widgets). Kijk naar de voorbeeldpackages voor hoe dit laatste werkt.
     >
-    > Er is een migratie onderweg van alle Antwerp UI en Smart Widget npm packages naar de npmjs repository zodat Nexus niet meer nodig zal zijn.
 
 2. Overname door Digipolis
 
