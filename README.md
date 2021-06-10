@@ -1,8 +1,8 @@
-# ACPaaS UI Smart Widgets
+# Antwerp UI Smart Widgets
 
 ## Welkom
 
-Smart Widgets maken deel uit van het Digipolis DXP, of Digital eXperience Platform, en bouwen voort bovenop de [ACPaaS UI](https://acpaas-ui.digipolis.be) componenten.
+Smart Widgets maken deel uit van het Digipolis DXP, of Digital eXperience Platform, en bouwen voort bovenop de [Antwerp UI](https://antwerp-ui.digipolis.be) componenten.
 
 Op deze plek vind je alles terug over het gebruiken en maken van Smart Widgets.
 
