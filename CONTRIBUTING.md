@@ -82,14 +82,14 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 ### Algemene richtlijnen
 
-- Je volgt de vereisten uit de [technische specificaties van het ACPaaS platform](https://acpaas-portal.antwerpen.be/nl/docs/techspecs).
-- Alle widgets horen visueel te passen in de [merkarchitectuur](https://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/digitale-componenten/technische-informatie) van de stad Antwerpen.
+- Je volgt de vereisten uit de [technische specificaties van het ACPaaS platform](https://acpaas.digipolis.be/nl/docs/resources).
+- Alle widgets horen visueel te passen in de [merkarchitectuur](https://medewerkers.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/web) van de stad Antwerpen.
 
-    > Heb je geen toegang tot bovenliggende pagina volg dan de [instructies vanop de technische specificaties](https://acpaas.digipolis.be/nl/docs/techspecs) om toegang tot de huisstijl te verkrijgen.
+    > Heb je geen toegang tot bovenliggende pagina volg dan de [instructies vanop de technische specificaties](https://antwerpen.be/huisstijl/login/https://acpaas.digipolis.be/nl/docs/techspecs) om toegang tot de huisstijl te verkrijgen.
 
     Je kan de [a-ui/core](https://github.com/a-ui/core_branding_scss) package aan je JavaScript project toevoegen om toegang te hebben tot de SASS variabelen uit de huisstijl. In de [contact picker](https://github.com/digipolisantwerp/contact-picker_widget_angular) zie je hier een voorbeeld van.
 
-- Voor de UI packages volg je de [Antwerp UI richtlijnen](https://antwerp-ui.digipolis.be/docs/guidelines) en maak je maximaal hergebruik van [Antwerp UI componenten](https://antwerp-ui.digipolis.be/ui-components).
+- Voor de UI packages volg je de [Antwerp UI richtlijnen](https://antwerp-ui.digipolis.be/docs/guidelines) en maak je maximaal hergebruik van [Antwerp UI componenten](https://antwerp-ui.digipolis.be/docs/welcome).
 
 ### Code repository
 
