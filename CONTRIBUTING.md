@@ -11,7 +11,7 @@ Bedankt dat je tijd wil nemen om een bijdrage te leveren! :+1:
 
 ## Ik heb een vraag
 
-Heb je een korte vraag over het gebruik van een widget dan is die altijd welkom op de [#acpaas-ui slack groep](https://digantcafe.slack.com/messages/CDDLYJU65). Heb je vragen over het (ver)bouwen van widgets dan is die welkom op de [#acpaas-ui-ngx slack groep](https://digantcafe.slack.com/messages/CDF95H5B7). Ben je nog geen lid van DigAnt Café Slack dan kan je [hier lid worden](https://digantcafe-slack.digipolis.be/).
+Heb je een korte vraag over het gebruik van een widget dan is die altijd welkom op de [#antwerp-ui slack groep](https://digantcafe.slack.com/messages/CDDLYJU65). Heb je vragen over het (ver)bouwen van widgets dan is die welkom op de [#antwerp-ui-ngx slack groep](https://digantcafe.slack.com/messages/CDF95H5B7). Ben je nog geen lid van DigAnt Café Slack dan kan je [hier lid worden](https://digantcafe-slack.digipolis.be/).
 
 Heb je een complexe vraag over de smart widgets in het algemeen, [maak dan een github issue](https://github.com/digipolisantwerp/smart-widgets/issues/new) bovenaan deze pagina.
 
@@ -57,7 +57,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 1. Publicatie op github onder eigen naam
 
-    Je publiceert repo's op github onder je eigen naam of organisatie. Je laat weten aan het ACPaaS UI team waar de widget staat via slack, mail of github issues.
+    Je publiceert repo's op github onder je eigen naam of organisatie. Je laat weten aan het Antwerp UI team waar de widget staat via slack, mail of github issues.
 
     We nemen jouw widget op in de overzichtslijst met status *Community*. Je staat zelf in voor eventuele ondersteuning (verwerken van pull requests, beantwoorden vragen, ...)
 
@@ -67,7 +67,6 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
     >
     > Publicatie van een NPM package doe je op de officiële npmjs repository (onder een eigen scope) of indien je de nodige permissies hebt kan je dit ook doen op de Digipolis Nexus package repository (onder scope @acpaas-ui-widgets). Kijk naar de voorbeeldpackages voor hoe dit laatste werkt.
     >
-    > Er is een migratie onderweg van alle ACPaaS UI en Smart Widget npm packages naar de npmjs repository zodat Nexus niet meer nodig zal zijn.
 
 2. Overname door Digipolis
 
@@ -75,7 +74,7 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
     Als aan de onderstaande richtlijnen is voldaan krijg je een goedkeuring voor overdracht. Je doet een transfer van de github repo naar de *digipolisantwerp* github organisatie.
 
-    In het kader van de overdracht spreken we af in welke mate je betrokken zal zijn bij het verdere onderhoud en de ondersteuning van afnemers. Bijkomende contributies doe je via pull requests of merge requests. Het ACPaaS UI team zorgt ervoor dat een npm package gepubliceerd wordt op de juiste plek indien nodig.
+    In het kader van de overdracht spreken we af in welke mate je betrokken zal zijn bij het verdere onderhoud en de ondersteuning van afnemers. Bijkomende contributies doe je via pull requests of merge requests. Het Antwerp UI team zorgt ervoor dat een npm package gepubliceerd wordt op de juiste plek indien nodig.
 
     ![Live](images/status-live.svg)
 
@@ -83,14 +82,14 @@ Elke Smart Widget gaat door verschillende stappen om gepubliceerd te geraken:
 
 ### Algemene richtlijnen
 
-- Je volgt de vereisten uit de [technische specificaties van het ACPaaS platform](https://acpaas-portal.antwerpen.be/nl/docs/techspecs).
-- Alle widgets horen visueel te passen in de [merkarchitectuur](https://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/digitale-componenten/technische-informatie) van de stad Antwerpen.
+- Je volgt de vereisten uit de [technische specificaties van het ACPaaS platform](https://acpaas.digipolis.be/nl/docs/resources).
+- Alle widgets horen visueel te passen in de [merkarchitectuur](https://medewerkers.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/web) van de stad Antwerpen.
 
-    > Heb je geen toegang tot bovenliggende pagina volg dan de [instructies vanop de technische specificaties](https://acpaas.digipolis.be/nl/docs/techspecs) om toegang tot de huisstijl te verkrijgen.
+    > Heb je geen toegang tot bovenliggende pagina volg dan de [instructies vanop de technische specificaties](https://antwerpen.be/huisstijl/login/https://acpaas.digipolis.be/nl/docs/techspecs) om toegang tot de huisstijl te verkrijgen.
 
     Je kan de [a-ui/core](https://github.com/a-ui/core_branding_scss) package aan je JavaScript project toevoegen om toegang te hebben tot de SASS variabelen uit de huisstijl. In de [contact picker](https://github.com/digipolisantwerp/contact-picker_widget_angular) zie je hier een voorbeeld van.
 
-- Voor de UI packages volg je de [ACPaaS UI richtlijnen](https://acpaas-ui.digipolis.be/docs/guidelines) en maak je maximaal hergebruik van [ACPaaS UI componenten](https://acpaas-ui.digipolis.be/ui-components).
+- Voor de UI packages volg je de [Antwerp UI richtlijnen](https://antwerp-ui.digipolis.be/docs/guidelines) en maak je maximaal hergebruik van [Antwerp UI componenten](https://antwerp-ui.digipolis.be/docs/welcome).
 
 ### Code repository
 
@@ -166,10 +165,10 @@ Voor de *live* status komt bovenop bovenstaande *community* vereisten ook nog di
 - NPM packagenaam volgt het patroon `[platform]-[widget-name]`
 
   - `[platform]`: `ngx` voor Angular 5+, `ng` voor Angular 1, `nodejs` voor Node.JS
-  - Publicatie onder de `@acpaas-ui-widgets` scope gebeurt na goedkeuring door het ACPaaS UI team.
+  - Publicatie onder de `@acpaas-ui-widgets` scope gebeurt na goedkeuring door het Antwerp UI team.
   - Bvb: `@acpaas-ui-widgets/ngx-contact-picker`
 
-- De belangrijkste elementen van de [ACPaaS UI coding guidelines](https://acpaas-ui.digipolis.be/docs/guidelines) zijn gevolgd.
+- De belangrijkste elementen van de [Antwerp UI coding guidelines](https://antwerp-ui.digipolis.be/docs/guidelines) zijn gevolgd.
 
 - De README.md en CONTRIBUTING.md bestanden bevatten de [bovenvermelde inhoud](#code-repository).
 
