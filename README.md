@@ -18,7 +18,7 @@ Op deze plek vind je alles terug over het gebruiken en maken van Smart Widgets.
 
 Een Smart Widget is een front-end component die een concrete end-to-end functionaliteit encapsuleert en gebruikt wordt als onderdeel om een View in een App te bouwen. De Widget bestaat uit een UI component en een bijbehorende service die de doorverbinding maakt met achterliggende systemen.
 
-Dit past in de referentie-architectuur [SA2020](https://docs.google.com/presentation/d/1F5xLAm7IqepLyBJMswdLXtkD-Epa_xL-iUJfu-k-Kdc/edit?usp=drive_web&ouid=110795847601970524262) en ziet er als volgt uit:
+Dit past in de referentie-architectuur [SA2023](https://opdrachten.digipolis.be/nl/software-architectuur-principes-sa-2023) en ziet er als volgt uit:
 
 ![Widget UI - Widget BFF - Engines](images/widget-architecture.png "Smart Widget Architecture")
 
@@ -93,7 +93,7 @@ Een selectieveld om een persoon uit te kiezen, met standaardkoppeling op het M-p
 
 Packages:
 
-- [Angular 5+ UI](https://github.com/digipolisantwerp/contact-picker_widget_angular)
+- [Angular 6+ UI](https://github.com/digipolisantwerp/contact-picker_widget_angular)
 - [Node.JS BFF](https://github.com/digipolisantwerp/contact-picker_service_nodejs)
 
 ### Location Picker
@@ -106,7 +106,7 @@ Een selectieveld om een straat, adres of plaats uit te kiezen, gekoppeld op de G
 
 Packages:
 
-- [Angular 5+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
+- [Angular 6+ UI](https://github.com/digipolisantwerp/location-picker_widget_angular)
 
 ### Chatbot
 
@@ -117,7 +117,7 @@ Een chat UI die verbonden is met een chatbot in de chatbot engine.
 <img src="images/chatbot.png" alt="Chatbot screenshot" width="410" style="max-width:410px;width:100%">
 
 
-- [Angular 5+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
+- [Angular 6+ UI](https://github.com/digipolisantwerp/chatbot_widget_angular)
 - [AngularJS 1.2 UI](https://github.com/digipolisantwerp/chatbot_widget_ng1)
 - [Node.JS BFF](https://github.com/digipolisantwerp/chatbot_service_nodejs)
 
@@ -141,6 +141,26 @@ Een notification dropdown om in-app notifications uit de notification engine te 
 
 - [Angular 7+ UI](https://github.com/digipolisantwerp/notification_widget_angular)
 - [Node.JS BFF](https://github.com/digipolisantwerp/notification_service_nodejs)
+
+## Cookie consent
+
+![Status: Live](images/status-live.svg)
+
+Een cookie consent prompt conform aan de huisstijl- en GDPR-vereisten.
+
+<img src="images/cookie-consent.png" alt="Cookie consent" width="600" style="max-width: 600px; width: 100%">
+
+- [Web Component](https://github.com/digipolisantwerp/antwerp-ui_web-components)
+
+## Metanavigation
+
+![Status: Live](images/status-live.svg)
+
+Een metanavigatie (header en footer) conform de huisstijlvereisten.
+
+<img src="images/metanav.png" alt="Metanavigation" width="730" style="max-width: 730px; width: 100%">
+
+- [Web Component](https://bitbucket.antwerpen.be/projects/MTN/repos/metanav-ui_library_preact) (login vereist)
 
 ## Embeddable Widgets
 
