@@ -77,11 +77,11 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 
 | Widget | Status |
 |--------|--------|
-| [Contact Picker](#contact-picker) | ![Status: Live](images/status-live.svg) |
+| [Contact Picker](#contact-picker) | ![Status: Archive](images/status-archive.svg) |
 | [Location Picker](#location-picker) | ![Status: Live](images/status-live.svg) |
-| [Chatbot](#chatbot) | ![Status: Live](images/status-live.svg) |
-| [Smart Table](#smart-table) | ![Status: Live](images/status-live.svg) |
-| [Notification](#notification) | ![Status: Live](images/status-live.svg) |
+| [Chatbot](#chatbot) | ![Status: Archive](images/status-archive.svg) |
+| [Smart Table](#smart-table) | ![Status: Archive](images/status-archive.svg) |
+| [Notification](#notification) | ![Status: Archive](images/status-archive.svg) |
 | [Location Viewer](#location-viewer) | ![Status: Live](images/status-live.svg) |
 | [Cookie consent](#cookie-consent) | ![Status: Live](images/status-live.svg) |
 | [Metanavigation](#metanavigation) | ![Status: Live](images/status-live.svg) |
@@ -165,7 +165,7 @@ Een cookie consent prompt conform aan de huisstijl- en GDPR-vereisten.
 
 <img src="images/cookie-consent.png" alt="Cookie consent" width="600" style="max-width: 600px; width: 100%">
 
-- [Web Component](https://github.com/digipolisantwerp/antwerp-ui_web-components)
+- [Web Component](https://github.com/a-ui/core_components_web)
 
 ## Metanavigation
 
@@ -183,3 +183,4 @@ Smart Widgets dien je te integreren in je frontend codebase, wat maakt dat ze be
 
 - [Embeddable widgets library](https://github.com/digipolisantwerp/embeddable-widgets_module_js)
 - [Standaardwidgets in de widgets app](https://widgets.antwerpen.be/)
+
