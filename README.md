@@ -88,7 +88,7 @@ In elk geval ben je op voorhand al enorm bedankt voor jouw hulp! :+1:
 
 ### Contact Picker
 
-![Status: Live](images/status-live.svg)
+![Status: Archive](images/status-archive.svg)
 
 Een selectieveld om een persoon uit te kiezen, met standaardkoppeling op het M-profiel en mogelijkheid om extra databronnen aan te koppelen.
 
@@ -113,7 +113,7 @@ Packages:
 
 ### Chatbot
 
-![Status: Live](images/status-live.svg)
+![Status: Archive](images/status-archive.svg)
 
 Een chat UI die verbonden is met een chatbot in de chatbot engine.
 
@@ -126,7 +126,7 @@ Een chat UI die verbonden is met een chatbot in de chatbot engine.
 
 ### Smart Table
 
-![Status: Live](images/status-live.svg)
+![Status: Archive](images/status-archive.svg)
 
 Een generieke front-end voor het tonen van filterbare, sorteerbare, paginerende lijsten van dingen. De front-end is zelfconfigurerend via data aangeleverd door de backend.
 
@@ -136,7 +136,7 @@ Een generieke front-end voor het tonen van filterbare, sorteerbare, paginerende 
 
 ### Notification
 
-![Status: Live](images/status-live.svg)
+![Status: Archive](images/status-archive.svg)
 
 Een notification dropdown om in-app notifications uit de notification engine te tonen.
 
@@ -183,4 +183,5 @@ Smart Widgets dien je te integreren in je frontend codebase, wat maakt dat ze be
 
 - [Embeddable widgets library](https://github.com/digipolisantwerp/embeddable-widgets_module_js)
 - [Standaardwidgets in de widgets app](https://widgets.antwerpen.be/)
+
 
